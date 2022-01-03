@@ -1,0 +1,60 @@
+ID Number: 679
+Surname: Olado
+Age: 48
+Your total costs are: $1248
+--------------------------------------
+ID Number: 477
+Surname: Graff
+Age: 67
+Your total costs are: $3120
+--------------------------------------
+ID Number: 679
+Surname: Olado
+Age: 24
+Your total costs are: $128
+--------------------------------------
+ID Number: 222
+Surname: Broil
+Age: 24
+Your total costs are: $1040
+--------------------------------------
+ID Number: 432
+Surname: Bob
+Age: 23
+Your total costs are: $760
+--------------------------------------
+ID Number: 679
+Surname: John
+Age: 45
+Your total costs are: $768
+--------------------------------------
+ID Number: 222
+Surname: Bryant
+Age: 23
+Your total costs are: $608
+--------------------------------------
+ID Number: 564
+Surname: ertr
+Age: 56
+Your total costs are: $550
+--------------------------------------
+ID Number: 564
+Surname: dfe
+Age: 67
+Your total costs are: $1024
+--------------------------------------
+ID Number: 111
+Surname: Joey
+Age: 45
+Your total costs are: $500
+--------------------------------------
+ID Number: 245
+Surname: Cranberry
+Age: 34
+Your total costs are: $1320
+--------------------------------------
+ID Number: 222
+Surname: Jobe
+Age: 45
+Your total costs are: $448
+--------------------------------------
