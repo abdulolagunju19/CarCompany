@@ -1,8 +1,4 @@
 //Abdul-Samad Olagunju
-//Ms. Dalal
-//Computer Programming 
-//Car Company Assignment
-//May 19, 2017
 
 #include <iostream>
 #include <string>
