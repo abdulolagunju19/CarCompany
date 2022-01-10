@@ -7,14 +7,14 @@
 #include <time.h>
 using namespace std;
 
-class Windshieldrep
+class WindShieldRep
 {
 	//declare variables, create function
 	public:
 		float smallcrack = 100;
 		float bigcrack = 150;
 		float numofrepairs, total;
-		float summerbill()	
+		float summerBill()	
 		{
 			//ask user for number of repairs, then get total bill
 			cout << "How many small crack repairs would you like to do on your car? ";
@@ -26,14 +26,14 @@ class Windshieldrep
 			total = bigcrack + smallcrack;
 		}
 };
-class Carwash
+class CarWash
 {
 	//declare variable, create function
 	public:
 		float inwash = 80;
 		float inoutwash = 200;
 		float numofwashes, total;
-		float winterbill()
+		float winterBill()
 		{
 			//get number of washes, get total cost
 			cout << "How many inner washes would you like to do on your car? ";
@@ -132,8 +132,8 @@ int main()
 		if(ans == 's')
 		{
 			//create windshield object, if customer is returning, give 20% discount
-			Windshieldrep obj;
-			obj.summerbill();
+			WindShieldRep obj;
+			obj.summerBill();
 			if(count >= 1)
 			{
 				ans = 'y';
@@ -149,8 +149,8 @@ int main()
 		if(ans == 'w')
 		{
 			//create carwash object, if customer is returning, give 20% discount
-			Carwash obj;
-			obj.winterbill();
+			CarWash obj;
+			obj.winterBill();
 			if(count >= 1)
 			{
 				ans = 'y';
